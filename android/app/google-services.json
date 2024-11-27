@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429159700358",
+    "project_id": "alexshuffle20-officialnotes1",
+    "storage_bucket": "alexshuffle20-officialnotes1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429159700358:android:78dd30a423a544f2fffe07",
+        "android_client_info": {
+          "package_name": "com.schuffledev.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFNq9TWGJ7GFo-mcrCTCHJ_-4bkEbUqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
